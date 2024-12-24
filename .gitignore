@@ -1,0 +1,6 @@
+.venv/
+*.log
+__pycache__/
+.DS_Store
+watermark_process.log
+cleanup_process.log
